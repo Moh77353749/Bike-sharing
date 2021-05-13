@@ -1,7 +1,2 @@
 # Bike-sharing
-this case study  was a graduation project of google proffecinal certificate.
-the aim of the project is to identify the bavavour of two types of cyclest who ride bikes.
-their are two types of memberships on the club, A annual member and casual.
-the task was to show the difference between tose types. 
-I have used RStudio to preform the data analysis and manpulating and show the trends via visulization.
-
+this case study was a graduation project for google's professional certificate. the aim of the project is to identify the behavior of two types of cyclists who ride bikes. there are two types of memberships on the club, A annual member and casual. the task was to show the difference between those types. I have used RStudio to perform the data analysis and manipulating and show the trends via visualization
